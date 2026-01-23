@@ -216,7 +216,7 @@ function App() {
 
             {/* Footer */}
             <footer className="p-10 border-t border-slate-200 bg-white text-center">
-                <p className="text-[10px] font-black text-slate-400 uppercase tracking-[0.4em]">© 2024 MK_CLOUD_STORAGE • 16/30 DONE</p>
+                <p className="text-[10px] font-black text-slate-400 uppercase tracking-[0.4em]">© 2026 CLOUD_DRIVE // MK_GLOBAL • 16/30 DONE</p>
             </footer>
         </div>
     );
